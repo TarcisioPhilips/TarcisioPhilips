@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tarcisio.rodrigues@professor.colegioplanck.com.br)](mailto:tarcisio.rodrigues@professor.colegioplanck.com.br)
 
 - 🔭 I'm currently working with **Software Development** and **Data Science**.
-- 🌱 I’m currently learning about **Blockchain (Etherun)** and **Clean arquitecture**!
+- 🌱 I’m currently learning about **Blockchain** and **Clean Arquitecture**!
 
 Passionate about education and data enthusiastic.  
 
